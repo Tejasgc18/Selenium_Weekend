@@ -9,4 +9,10 @@ public class Sample {
 	{
 		Reporter.log("Sample is executed", true);
 	}
+	@Test
+	public void gitTest()
+	{
+		Reporter.log("GitTest is executed", true);
+	}
 }
+
